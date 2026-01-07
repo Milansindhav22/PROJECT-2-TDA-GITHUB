@@ -1,0 +1,19 @@
+Student ID,Name,Gender,Subject,Marks,Attendance,Result
+S001,Aarav,Male,Mathematics,78,85,Pass
+S001,Aarav,Male,Science,82,85,Pass
+S001,Aarav,Male,English,69,85,Pass
+S002,Diya,Female,Mathematics,55,72,Pass
+S002,Diya,Female,Science,48,72,Fail
+S002,Diya,Female,English,60,72,Pass
+S003,Rohan,Male,Mathematics,35,60,Fail
+S003,Rohan,Male,Science,42,60,Fail
+S003,Rohan,Male,English,50,60,Pass
+S004,Ananya,Female,Mathematics,88,92,Pass
+S004,Ananya,Female,Science,91,92,Pass
+S004,Ananya,Female,English,85,92,Pass
+S005,Kabir,Male,Mathematics,67,78,Pass
+S005,Kabir,Male,Science,70,78,Pass
+S005,Kabir,Male,English,58,78,Pass
+S006,Isha,Female,Mathematics,45,65,Fail
+S006,Isha,Female,Science,52,65,Pass
+S006,Isha,Female,English,48,65,Fail

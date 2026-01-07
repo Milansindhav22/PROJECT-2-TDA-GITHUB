@@ -1,0 +1,16 @@
+Invoice ID,Date,Time,Product line,Unit price,Quantity,Total,Customer type,Gender,Payment
+750-67-8428,2023-01-01,10:15,Food and beverages,45.50,5,227.50,Member,Male,Ewallet
+226-31-3081,2023-01-01,13:45,Electronic accessories,120.00,2,240.00,Normal,Female,Cash
+631-41-2618,2023-01-02,18:30,Fashion accessories,35.00,6,210.00,Member,Female,Credit card
+123-19-3456,2023-01-02,20:10,Home and lifestyle,80.00,3,240.00,Normal,Male,Ewallet
+373-73-7923,2023-01-03,11:20,Food and beverages,25.00,10,250.00,Member,Female,Cash
+299-46-8773,2023-01-03,16:50,Health and beauty,60.00,4,240.00,Normal,Female,Credit card
+784-59-9245,2023-01-04,19:05,Electronic accessories,150.00,1,150.00,Member,Male,Ewallet
+165-11-1234,2023-01-04,14:40,Home and lifestyle,90.00,2,180.00,Normal,Male,Cash
+547-99-7865,2023-01-05,09:30,Fashion accessories,40.00,7,280.00,Member,Female,Credit card
+652-21-6549,2023-01-05,17:15,Food and beverages,30.00,8,240.00,Normal,Male,Ewallet
+879-77-3321,2023-01-06,12:00,Health and beauty,55.00,5,275.00,Member,Female,Cash
+445-66-9812,2023-01-06,21:10,Electronic accessories,200.00,1,200.00,Normal,Male,Credit card
+312-58-7777,2023-01-07,15:25,Home and lifestyle,70.00,4,280.00,Member,Male,Ewallet
+981-44-2365,2023-01-07,18:55,Fashion accessories,50.00,6,300.00,Normal,Female,Cash
+673-29-9991,2023-01-08,11:45,Food and beverages,20.00,12,240.00,Member,Female,Credit card
