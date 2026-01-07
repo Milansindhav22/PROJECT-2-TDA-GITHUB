@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("student_performance.csv")
+df = pd.read_csv("data/student_performance.csv")
 
 pass_fail = df['Result'].value_counts()
 
