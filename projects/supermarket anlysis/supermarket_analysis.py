@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("supermarket_sales.csv")
+df = pd.read_csv("data/supermarket_sales.csv")
 df['Date'] = pd.to_datetime(df['Date'])
 
 daily_sales = df.groupby('Date')['Total'].sum()

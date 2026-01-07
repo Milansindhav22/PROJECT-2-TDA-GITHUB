@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("stock_data.csv")
+df = pd.read_csv("data/stock_data.csv")
 df['Daily Return'] = df['Close'].pct_change()
 
 plt.plot(df['Date'], df['Close'])
