@@ -52,8 +52,7 @@ projects/01_supermarket_analysis python analysis.py \`\`\`
 
 Results will be saved in the \`outputs/\` folder within each project.
 
-\## 📧 Contact - \*\*Email:\*\* \[your.email@example.com\] -
-\*\*LinkedIn:\*\* \[Your LinkedIn URL\] - \*\*GitHub:\*\* \[Your GitHub
-URL\]
+\## 📧 Contact - \*\*Email:\*\* \[milanmax00700@gmail.com\] -
+
 
 \-\-- \*Last Updated: January 2026\*
